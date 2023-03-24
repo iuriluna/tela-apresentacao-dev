@@ -7,9 +7,9 @@ A estrutura e estilização foram feitas com HTML & CSS e a linguagem utilizada 
 
 ## 🎨 Resultado:
 - o resultado pode ser conferido aqui: [**Repl.it**](https://iuriluna.github.io/tela-apresentacao-dev/) 
-<img src="https://github.com/iuriluna/Conversor-de-Moedas/blob/master/assets/dolar-americano.jpeg?raw=true" width="440px">
-<img src="https://github.com/iuriluna/Conversor-de-Moedas/blob/master/assets/euro.jpeg?raw=true" width="440px" >
-<img src="https://github.com/iuriluna/Conversor-de-Moedas/blob/master/assets/bitcoin.jpeg?raw=true" width="440px">
+<img src="" width="440px">
+<img src="" width="440px" >
+<img src="" width="440px">
 
 ## 🔨Feito com:
 
