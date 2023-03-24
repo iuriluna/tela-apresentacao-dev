@@ -7,9 +7,8 @@ A estrutura e estilização foram feitas com HTML & CSS e a linguagem utilizada 
 
 ## 🎨 Resultado:
 - o resultado pode ser conferido aqui: [**Repl.it**](https://iuriluna.github.io/tela-apresentacao-dev/) 
-<img src="" width="440px">
-<img src="" width="440px" >
-<img src="" width="440px">
+<img src="assets/bkgLight.jpg" width="440px">
+<img src="assets/bkgDark.jpg" width="440px" >
 
 ## 🔨Feito com:
 
